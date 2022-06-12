@@ -1,0 +1,7 @@
+Documentos
+*.msi
+ConnectionDB.cs
+Parametros_Empresa.cs
+bin
+obj
+*.pfx
